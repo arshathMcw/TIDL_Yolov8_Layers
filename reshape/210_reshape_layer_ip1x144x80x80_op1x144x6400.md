@@ -1,4 +1,3 @@
-![alt text](image.png)
 ## Reshape Layer
 1. 
 ```
