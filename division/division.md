@@ -1,4 +1,4 @@
-## Subtraction Layer
+## Division Layer
 1. 
 ```
 Input : 1x2x8400
