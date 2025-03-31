@@ -10,10 +10,10 @@ Padding : 2x2x2x2
 ### In Netron
 ![alt text](image.png)
 ### In Model Artifact (No maxpool layer)
-![alt text](image-1.png)
+![alt text](image-8.png)
 ### Running on ARM
 ![alt text](image-4.png)
 ### Running on TIDL
-![alt text](image-3.png)
+![alt text](image-9.png)
 ### Evaluation
 ![alt text](image-2.png)
