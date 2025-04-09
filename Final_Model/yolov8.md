@@ -5,5 +5,3 @@
 ![alt text](image-2.png)
 * Running on TIDL 
 ![alt text](image.png)
-* Output Evaluation
-![alt text](image-2.png)
