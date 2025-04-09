@@ -6,4 +6,4 @@
 * Running on TIDL 
 ![alt text](image.png)
 * Output Evaluation
-![alt text](result.png)
+![alt text](image-1.png)
